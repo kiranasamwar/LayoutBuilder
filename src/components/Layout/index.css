@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.layout-container {
+  padding: 100px;
+  padding-left: 200px;
+  padding-right: 200px;
+}
+.body-container {
+  height: 450px;
+}
